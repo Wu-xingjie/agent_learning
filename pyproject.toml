@@ -5,10 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "ddgs>=9.11.4",
+    "duckduckgo-search>=8.1.1",
     "fastapi>=0.135.1",
     "langchain>=1.2.12",
     "langchain-community>=0.4.1",
     "langchain-openai>=1.1.11",
+    "langgraph>=1.1.2",
     "langserve>=0.3.3",
     "pydantic>=2.12.5",
     "sse-starlette>=3.3.2",
