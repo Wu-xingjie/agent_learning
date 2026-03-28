@@ -1,0 +1,6 @@
+*.pdf
+*.bin
+*.toml
+*.lock
+*.pyc
+*.sqlite3
